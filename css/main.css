@@ -656,17 +656,17 @@ header {
   border-bottom: 3px solid #ffa500;
 }
 .logo {
-  width: 160px;
+  width: 130px;
   height: auto;
   float: left;
 }
 .logo a {
-  width: 160px;
+  width: 130px;
   height: auto;
   display: block;
 }
 .logo a img {
-  width: 160px;
+  width: 130px;
   height: auto;
   display: block;
 }
@@ -741,6 +741,9 @@ header {
   display: flex;
   align-items: center;
   justify-content: center;
+  color: #000000;
+}
+.section h1.text-shadow {
   color: #ffffff;
   text-shadow: 0 0 5px #000;
 }
